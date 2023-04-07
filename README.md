@@ -10,10 +10,9 @@ this Software is programmed with Python Language and Tkinter Module for GUI.
 
 ## Installation
 
-Install required library and run program using these commands on your Windows/Linux Device...
+run program using this command on your Windows/Linux Device...
 
 ```bash
-pip3 install tkinter
 python main.py
 ```
 or just click on GUIStringJoiner.exe to open it... :) 
