@@ -18,8 +18,10 @@ python main.py
 or just click on GUIStringJoiner.exe to open it... :) 
 ## Features
 
-- Dark mode (only)
-- Cross platform
+- Dark mode & Light mode
+- Output File generation (.txt)
+- Copying to Clipboard
+- Cross platform (Windows & Linux)
 
 
 ## Author
